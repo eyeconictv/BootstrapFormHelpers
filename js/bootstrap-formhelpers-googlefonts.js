@@ -261,7 +261,8 @@
       value = this.options.family;
 
       this.$element.html('');
-      var bindMe = function() {
+      var bindMe = function(e) {
+        e.preventDefault();
         self.$element.trigger('select', $(this).data('option'));
       };
       for (f in this.familyList) {
