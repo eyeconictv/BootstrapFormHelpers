@@ -8,6 +8,6 @@
   ],
   "description": "A collection of jQuery plugins for Bootstrap.",
   "dependencies": {
-    "rv-style-guide": "https://github.com/Rise-Vision/style-guide.git"
+    "common-style": "https://github.com/Rise-Vision/common-style.git"
   }
 }
