@@ -25,7 +25,7 @@ Clone the repo, `git clone git://github.com/Rise-Vision/BootstrapFormHelpers.git
 Bug tracker
 -----------
 
-[![Stories in Ready](https://badge.waffle.io/Rise-Vision/BootstrapFormHelpers.png)](http://waffle.io/Rise-Vision/BootstrapFormHelpers)  
+[![Stories in Ready](https://badge.waffle.io/Rise-Vision/BootstrapFormHelpers.png)](http://waffle.io/Rise-Vision/BootstrapFormHelpers)
 
 Have a bug? Please create an issue here on GitHub that conforms with [necolas's guidelines](https://github.com/necolas/issue-guidelines).
 
@@ -59,3 +59,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+**Facilitator**
+
+[Donna Peplinskie](https://github.com/donnapep "Donna Peplinskie")
