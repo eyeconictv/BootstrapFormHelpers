@@ -5,8 +5,7 @@ http://bootstrapformhelpers.com
 BootstrapFormHelpers is a set of javascript to help you create user friendly forms, created and maintained by [Vincent Lamanna](http://twitter.com/vincentlamanna).
 [![endorse](http://api.coderwall.com/Rise-Vision/endorsecount.png)](http://coderwall.com/vlamanna)
 
-
-[![Build Status](https://travis-ci.org/Rise-Vision/BootstrapFormHelpers.png?branch=master)](https://travis-ci.org/Rise-Vision/BootstrapFormHelpers)
+[![Circle CI](https://circleci.com/gh/Rise-Vision/BootstrapFormHelpers/tree/master.svg?style=svg)](https://circleci.com/gh/Rise-Vision/BootstrapFormHelpers/tree/master)
 
 [![Dependency Status](https://gemnasium.com/Rise-Vision/BootstrapFormHelpers.png)](https://gemnasium.com/Rise-Vision/BootstrapFormHelpers)
 
