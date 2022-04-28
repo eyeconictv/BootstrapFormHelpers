@@ -8,6 +8,6 @@
   ],
   "description": "A collection of jQuery plugins for Bootstrap.",
   "dependencies": {
-    "common-style": "https://github.com/porcupine-plan/common-style.git"
+    "common-style": "https://github.com/Rise-Vision/common-style.git"
   }
 }
