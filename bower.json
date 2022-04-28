@@ -1,6 +1,6 @@
 {
   "name": "rv-bootstrap-formhelpers",
-  "version": "2.3.5-rv",
+  "version": "3.3.5",
   "homepage": "http://bootstrapformhelpers.com",
   "authors": [
     "Vincent Lamanna <v@cakemail.com>",
@@ -8,6 +8,6 @@
   ],
   "description": "A collection of jQuery plugins for Bootstrap.",
   "dependencies": {
-    "common-style": "https://github.com/Rise-Vision/common-style.git"
+    "common-style": "https://github.com/porcupine-plan/common-style.git"
   }
 }
